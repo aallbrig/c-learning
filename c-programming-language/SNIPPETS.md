@@ -10,3 +10,6 @@ cc char-io.c -o chario.out && ./chario.out
 ```bash
 cc char-count.c -o charcount.out && ./charcount.out
 ```
+```bash
+cc line-count.c -o linecount.out && ./linecount.out
+```
