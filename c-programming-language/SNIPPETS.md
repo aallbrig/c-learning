@@ -16,3 +16,6 @@ cc line-count.c -o linecount.out && ./linecount.out
 ```bash
 cc io-blank-compact.c -o ioblankcompact.out && ./ioblankcompact.out
 ```
+```bash
+cc io-show-whitespace.c -o ioshowwhitespace.out && ./ioshowwhitespace.out
+```
