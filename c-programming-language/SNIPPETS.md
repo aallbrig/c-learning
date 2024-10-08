@@ -7,3 +7,6 @@ cc f-to-c-loop.c -o ftoc.out && ./ftoc.out
 ```bash
 cc char-io.c -o chario.out && ./chario.out
 ```
+```bash
+cc char-count.c -o charcount.out && ./charcount.out
+```
