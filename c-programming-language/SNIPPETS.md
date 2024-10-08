@@ -13,3 +13,6 @@ cc char-count.c -o charcount.out && ./charcount.out
 ```bash
 cc line-count.c -o linecount.out && ./linecount.out
 ```
+```bash
+cc io-blank-compact.c -o ioblankcompact.out && ./ioblankcompact.out
+```
