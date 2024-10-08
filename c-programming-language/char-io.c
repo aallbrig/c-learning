@@ -2,11 +2,6 @@
 
 void main() {
 	int c;
-	while ((c = getchar()) != EOF)
+	while ((c = getchar()) != EOF) // != takes precedence over = (assignment); the paranthesis around `x = expression` is therefore necessary
 		putchar(c);
-	// c = getchar();
-	// while (c != EOF) {
-	// 	putchar(c);
-	// 	c = getchar();
-	// }
 }
